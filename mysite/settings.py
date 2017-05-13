@@ -25,7 +25,7 @@ SECRET_KEY = '61cntip@25vg90(g%_7nc*!367w61i@)-8vg5&cgu2h7pg1pq1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['limebell.pythonanywhere.com',]
 
 
 # Application definition
